@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:065f46,100:10b981&height=300&section=header&text=Emmanuel%20Angelo-Hyuwa&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%2FML%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18&fontFamily=Outfit" />
+<img src="https://raw.githubusercontent.com/emmanuelangelo-hyuwa-lang/emmanuelangelo-hyuwa-lang/main/assets/header.svg" width="100%" />
 
 <br/>
 
@@ -16,6 +16,7 @@
 <br/>
 
 <img src="https://img.shields.io/badge/San_Francisco-California-047857?style=for-the-badge&logo=googlemaps&logoColor=white" />
+<img src="https://img.shields.io/badge/🇳🇬_Proud_Nigerian-10B981?style=for-the-badge" />
 
 <br/><br/>
 
@@ -46,9 +47,11 @@
 
 ## About Me
 
-I'm Emmanuel — a software engineer and student at Minerva University, studying Computer Science & AI alongside Physics.
+I'm Emmanuel. Proud Nigerian, currently studying Computer Science & AI and Physics at Minerva University.
 
-I like building things end to end: figuring out how something should work, writing the code, and seeing it actually run for real people. Most of my time goes into a mix of software engineering, AI/ML, and full-stack work — I've built a spam classifier with Python and NLTK, and I'm currently working on a Supabase + React platform for my school. Outside of that, I'm working through data structures and algorithms with CodePath and generally just trying to get better at writing clean, useful code.
+I like building things end to end: figuring out how something should work, writing the code, and seeing it actually run for real people. Most of what I do is a mix of software engineering, AI/ML, and full stack work. I built a spam classifier with Python and NLTK during a research internship at AIRLAB, and right now I'm working on Minerva Connect, a Supabase + React platform for my school. I'm also grinding through DSA with CodePath.
+
+Outside of debugging, I play soccer and support Manchester City, for better or worse.
 
 I care more about shipping things that actually work than things that just look good on paper.
 
@@ -89,11 +92,11 @@ I care more about shipping things that actually work than things that just look 
 
 | Domain | Level | Details |
 |:--|:--:|:--|
-| Natural Language Processing | Comfortable | Built a spam classification system with Python and NLTK at AIRLAB, University of Lagos — improved classification accuracy by 30% through feature selection |
+| Natural Language Processing | Comfortable | Built a spam classification system with Python and NLTK at AIRLAB, University of Lagos, improving classification accuracy by 30% through feature selection |
 | Machine Learning Fundamentals | Comfortable | Worked through supervised learning workflows, feature engineering, and model evaluation on real text datasets |
-| Data Analysis & Research Synthesis | Solid | Regularly turn technical/quantitative findings into clear, discussion-ready summaries through AI Accelerator Institute mentorship programs |
+| Data Analysis & Research Synthesis | Solid | Regularly turn technical and quantitative findings into clear, discussion-ready summaries through AI Accelerator Institute mentorship programs |
 | AI Trend Research | Learning | Doing independent and group research on emerging AI topics, applied to projects and discussions |
-| CS & Math Foundations | Solid | Studying Computer Science & AI alongside Physics at Minerva — gives me a decent base for algorithmic and statistical thinking |
+| CS & Math Foundations | Solid | Studying Computer Science & AI alongside Physics at Minerva, which gives me a decent base for algorithmic and statistical thinking |
 
 </div>
 
@@ -102,7 +105,7 @@ I care more about shipping things that actually work than things that just look 
 ## Featured Projects
 
 <details open>
-<summary><b>Minerva Connect — Student Work-Study Platform</b></summary>
+<summary><b>Minerva Connect (Student Work-Study Platform)</b></summary>
 <br/>
 
 A platform I'm building to make it easier for Minerva students to find and apply for work-study roles on campus.
@@ -153,7 +156,7 @@ A short research internship focused on NLP and applied ML.
 
 A nonprofit supporting neurodivergent individuals, with outreach across Nigeria.
 
-- Led national outreach by analyzing engagement patterns and coordinating content strategy — grew audience engagement by 40%
+- Led national outreach by analyzing engagement patterns and coordinating content strategy, grew audience engagement by 40%
 - Coordinated contributors to keep messaging consistent and aligned with the org's goals
 - Built and manage a resource hub for neurodivergent individuals looking to get into AI
 
@@ -167,14 +170,14 @@ A nonprofit supporting neurodivergent individuals, with outreach across Nigeria.
 
 | Recognition | Details |
 |:--|:--|
-| Gold Medalist — Nigerian National Economics Olympiad | 2023, 2024 |
-| National Representative — International Economics Olympiad | 2023 |
-| Top in Nigeria — IGCSE Physics & ICT | 2024 |
-| Second Runner-Up — Interswitch SPAK National Science Competition | 2024 |
-| Best Student in State — Nigerian Physics Olympiad | 2024 |
-| Gold Medalist — Online International Mathematics Challenge | 2023 |
-| Valedictorian — The Ambassadors College | 2024 |
-| Admitted to Minerva University — 1.9% acceptance rate, #1 Most Innovative University (WURI) | 2025 |
+| Gold Medalist, Nigerian National Economics Olympiad | 2023, 2024 |
+| National Representative, International Economics Olympiad | 2023 |
+| Top in Nigeria, IGCSE Physics & ICT | 2024 |
+| Second Runner-Up, Interswitch SPAK National Science Competition | 2024 |
+| Best Student in State, Nigerian Physics Olympiad | 2024 |
+| Gold Medalist, Online International Mathematics Challenge | 2023 |
+| Valedictorian, The Ambassadors College | 2024 |
+| Admitted to Minerva University, 1.9% acceptance rate and #1 Most Innovative University (WURI) | 2025 |
 
 </div>
 
@@ -201,6 +204,27 @@ A nonprofit supporting neurodivergent individuals, with outreach across Nigeria.
 
 ---
 
+## Coding Profiles
+
+<div align="center">
+
+<a href="https://leetcode.com/emmanuelangelo-hyuwa-lang/">
+  <img src="https://img.shields.io/badge/LeetCode-Profile-6D28D9?style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
+<a href="https://www.geeksforgeeks.org/user/emmanuelangelo-hyuwa-lang/">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-059669?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+</a>
+<a href="https://www.hackerrank.com/emmanuelangelo-hyuwa-lang">
+  <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+</a>
+<a href="https://www.codechef.com/users/emmanuelangelo-hyuwa-lang">
+  <img src="https://img.shields.io/badge/CodeChef-Profile-10B981?style=for-the-badge&logo=codechef&logoColor=white" />
+</a>
+
+</div>
+
+---
+
 ## GitHub Analytics
 
 <div align="center">
@@ -220,7 +244,7 @@ A nonprofit supporting neurodivergent individuals, with outreach across Nigeria.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=emmanuelangelo-hyuwa-lang&theme=algolia&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" />
+<img src="https://github-profile-trophy-fork-two.vercel.app/?username=emmanuelangelo-hyuwa-lang&theme=algolia&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" />
 
 </div>
 
@@ -254,7 +278,7 @@ Learning:
   - Applied AI / ML pipelines
 
 Building:
-  - Minerva Connect — student work-study platform
+  - Minerva Connect, a student work-study platform
 
 Exploring:
   - Full-stack dev with Supabase & React
@@ -291,7 +315,7 @@ Open To:
 
 <div align="center">
 
-<i>Still figuring a lot of this out — but building, learning, and shipping along the way.</i>
+<i>Still learning, still shipping, still proudly Naija.</i>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:10b981,50:065f46,100:000000&height=160&section=footer" />
 
