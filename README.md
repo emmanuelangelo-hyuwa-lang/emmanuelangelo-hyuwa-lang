@@ -47,11 +47,11 @@
 
 ## About Me
 
-I'm Emmanuel. Proud Nigerian, currently studying Computer Science & AI and Physics at Minerva University.
+I'm Emmanuel. I'm currently studying Computer Science & AI and Physics at Minerva University.
 
 I like building things end to end: figuring out how something should work, writing the code, and seeing it actually run for real people. Most of what I do is a mix of software engineering, AI/ML, and full stack work. I built a spam classifier with Python and NLTK during a research internship at AIRLAB, and right now I'm working on Minerva Connect, a Supabase + React platform for my school. I'm also grinding through DSA with CodePath.
 
-Outside of debugging, I play soccer and support Manchester City, for better or worse.
+Outside of debugging, I play soccer and support a few soccer clubs including Real Madrid and Manchester City, for better or worse.
 
 I care more about shipping things that actually work than things that just look good on paper.
 
