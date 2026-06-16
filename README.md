@@ -278,7 +278,7 @@ Learning:
   - Applied AI / ML pipelines
 
 Building:
-  - Minerva Connect, a student work-study platform
+  - Minerva Connect, a student-applicant communication web app
 
 Exploring:
   - Full-stack dev with Supabase & React
