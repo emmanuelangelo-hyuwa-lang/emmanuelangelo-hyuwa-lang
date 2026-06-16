@@ -174,7 +174,7 @@ A nonprofit supporting neurodivergent individuals, with outreach across Nigeria.
 | National Representative, International Economics Olympiad | 2023 |
 | Top in Nigeria, IGCSE Physics & ICT | 2024 |
 | Second Runner-Up, Interswitch SPAK National Science Competition | 2024 |
-| Best Student in State, Nigerian Physics Olympiad | 2024 |
+| Best Student, Nigerian National Physics Olympiad | 2024 |
 | Gold Medalist, Online International Mathematics Challenge | 2023 |
 | Valedictorian, The Ambassadors College | 2024 |
 | Admitted to Minerva University, 1.9% acceptance rate and #1 Most Innovative University (WURI) | 2025 |
